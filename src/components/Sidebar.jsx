@@ -1,4 +1,4 @@
-import { AccountBox, Group, Groups, Home, ModeNight, Person, Settings, Storefront } from '@mui/icons-material'
+import { AccountBox, Group, Home, ModeNight, Person, Settings, Storefront } from '@mui/icons-material'
 import { Box, List, ListItem, ListItemButton, ListItemIcon, ListItemText, Switch } from '@mui/material'
 import React from 'react'
 import ArticleIcon from '@mui/icons-material/Article';
